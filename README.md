@@ -1,23 +1,45 @@
-# Teaching with GitHub Copilot: A Faculty Starter Kit
+# 🚀 Teaching with GitHub Copilot: A Faculty Starter Kit
 
-This repository is designed to support faculty interested in integrating GitHub Copilot into their coding classrooms. It includes tutorials, sample code, pair programming exercises, classroom prompts, and ethical use discussions—all structured to support intentional, reflective learning with AI coding assistants.
+Welcome to the **Copilot Classroom Starter Kit** – a curated collection of real-world activities, templates, and resources I use in my own web development classes to teach with GitHub Copilot.
 
-## What’s Inside
+👩‍🏫 Whether you’re just getting started or ready to expand your use of AI in the classroom, this repo has you covered!
 
-- **01_Getting_Started:** Setup instructions and a beginner script to test Copilot.
-- **02_Guided_Prompts:** Use prompts to explore Copilot’s behavior and reflect on its suggestions.
-- **03_Pair_Programming_Exercises:** Lightweight challenges for student pairs using Copilot collaboratively.
-- **04_Bug_Fix_Activities:** Broken code designed to be debugged with or without Copilot's help.
-- **05_Assignment_Templates:** Copy-paste ready templates for Copilot-enhanced labs, rubrics, and reflection.
-- **06_Classroom_Discussion_Tools:** Prompts and guides for leading thoughtful discussions on AI use.
+---
 
-## Who It’s For
+## 📁 What’s Inside
 
-Educators in web development, programming, and IT who want to:
-- Experiment with GitHub Copilot in a safe, supportive context
-- Teach students how to think critically about AI-generated code
-- Promote ethical, reflective use of AI tools in the classroom
+| Folder | Description |
+|--------|-------------|
+| `01_Getting_Started` | Setup guide and a beginner script to test Copilot |
+| `02_Guided_Prompts` | Comment prompts and reflection activities |
+| `03_Pair_Programming_Exercises` | Copilot-friendly challenges for student pairs |
+| `04_Bug_Fix_Activities` | Broken code examples for debugging practice |
+| `05_Assignment_Templates` | Templates for labs, rubrics, and reflections |
+| `06_Classroom_Discussion_Tools` | Prompts for ethical discussion and interviews |
 
-## License
+---
 
-MIT – use and adapt freely.
+## 🛠️ How to Use This Repo
+
+1. Clone or download the repo to your local machine
+2. Explore the folders based on your teaching goals:
+   - Want a Copilot warm-up? Try **Guided Prompts**
+   - Ready for student pair work? Head to **Pair Programming**
+   - Looking to raise digital ethics questions? See **Classroom Discussion**
+3. Adapt any file to fit your students and context
+4. Use [GitHub Pages](docs/index.md) for a visual overview (if enabled)
+
+---
+
+## 🤝 Want to Contribute?
+
+If you’re an educator or developer who’s exploring Copilot in the classroom, I’d love for you to add your ideas!  
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to share activities, prompts, or strategies.
+
+Together, we can help make AI a meaningful tool for learning—one line of code at a time 💬✨
+
+---
+
+## 📜 License
+
+MIT – use, remix, and share freely with attribution.
