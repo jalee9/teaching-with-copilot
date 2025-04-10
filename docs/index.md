@@ -14,12 +14,12 @@ It's designed for educators who want to bring GitHub Copilot into their programm
 
 ## 📁 Explore Teaching Resources
 
-- [Getting Started](https://jalee9.github.io/teaching-with-copilot/01_Getting_Started/)
-- [Guided Prompts](https://jalee9.github.io/teaching-with-copilot/02_Guided_Prompts/)
-- [Pair Programming Exercises](https://jalee9.github.io/teaching-with-copilot/03_Pair_Programming_Exercises/)
-- [Bug Fix Activities](https://jalee9.github.io/teaching-with-copilot/04_Bug_Fix_Activities/)
-- [Assignment Templates](https://jalee9.github.io/teaching-with-copilot/05_Assignment_Templates/)
-- [Classroom Discussion Tools](https://jalee9.github.io/teaching-with-copilot/06_Classroom_Discussion_Tools/)
+- [Getting Started](https://github.com/jalee9/teaching-with-copilot/tree/main/01_Getting_Started)
+- [Guided Prompts](https://github.com/jalee9/teaching-with-copilot/tree/main/02_Guided_Prompts)
+- [Pair Programming Exercises](https://github.com/jalee9/teaching-with-copilot/tree/main/03_Pair_Programming_Exercises)
+- [Bug Fix Activities](https://github.com/jalee9/teaching-with-copilot/tree/main/04_Bug_Fix_Activities)
+- [Assignment Templates](https://github.com/jalee9/teaching-with-copilot/tree/main/05_Assignment_Templates)
+- [Classroom Discussion Tools](https://github.com/jalee9/teaching-with-copilot/tree/main/06_Classroom_Discussion_Tools)
 
 ---
 
