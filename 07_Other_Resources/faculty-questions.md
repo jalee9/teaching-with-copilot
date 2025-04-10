@@ -1,6 +1,6 @@
 # ❓ Faculty + New User FAQ: GitHub Copilot in the Classroom
 
-This FAQ combines questions from new faculty users and common concerns raised in workshops and training sessions. It offers real-world insights, transparent strategies, and support for responsible AI integration in the classroom.
+This FAQ combines questions from new faculty users and common concerns raised in workshops and training sessions I've conducted on Copilot in the Classroom. It offers real-world insights, transparent strategies, and support for responsible AI integration in the classroom.
 
 ---
 
