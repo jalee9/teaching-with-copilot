@@ -1,3 +1,9 @@
+---
+layout: default
+title: Classroom Discussion Tools
+nav_order: 6
+---
+
 # 💬 Classroom Discussion Tools
 
 Discussion guides for exploring ethical AI use, job readiness, and collaboration with Copilot.
