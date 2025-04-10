@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bug Fix Activities
+nav_order: 4
+---
+
 # 🔴 Bug Fix Activities
 
 Challenge students to debug broken code with or without Copilot’s help.
