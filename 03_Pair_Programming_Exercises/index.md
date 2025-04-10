@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pair Programming Exercises
+nav_order: 3
+---
+
 # 🟣 Pair Programming Exercises
 
 Lightweight activities that encourage students to work together using Copilot suggestions.
