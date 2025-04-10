@@ -1,3 +1,9 @@
+---
+layout: default
+title: Assignment Templates
+nav_order: 5
+---
+
 # 📝 Assignment Templates
 
 Ready-to-use lab templates and grading criteria to support Copilot-enhanced assignments.
