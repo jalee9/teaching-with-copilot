@@ -1,3 +1,9 @@
+---
+layout: default
+title: Guided Prompts
+nav_order: 2
+---
+
 # 🟡 Guided Prompts
 
 Explore how GitHub Copilot responds to different prompts and use reflection questions to deepen understanding.
