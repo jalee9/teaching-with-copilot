@@ -1,3 +1,9 @@
+---
+layout: default
+title: Getting Started
+nav_order: 1
+---
+
 # 🟢 Getting Started with GitHub Copilot
 
 This section includes setup instructions and a beginner-level script to try GitHub Copilot in Visual Studio Code.
